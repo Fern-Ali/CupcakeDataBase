@@ -1,4 +1,4 @@
-"""wht the fuck"""
+
 
 from flask_sqlalchemy import SQLAlchemy
 

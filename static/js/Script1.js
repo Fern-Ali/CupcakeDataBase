@@ -1,6 +1,6 @@
 // JavaScript source code
 document.body.style.background = 'url(https://images.unsplash.com/photo-1486427944299-d1955d23e34d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)'
-
+document.body.style.backgroundSize = "cover";
 //$('OURCLASS').click(function () {
 
 //    alert('you clicked')
@@ -128,7 +128,7 @@ $(".bday-icon").hover(
 
 let home = 'https://github.com/Fern-Ali/';
 let repo = 'https://github.com/Fern-Ali/CupcakeDataBase';
-let reqs = 'https://github.com/Fern-Ali/Pet-Adoption-App/blob/master/requirements.txt';
+let reqs = 'https://github.com/Fern-Ali/CupcakeDataBase/blob/master/requirements.txt';
 
 //$(".edit-icon").on("click", addPetPage);
 //$(".species-icon").on("click", editPetPage);
